@@ -16,6 +16,7 @@ Plain-language summary: https://creativecommons.org/licenses/by/4.0/
 
 - The code in `index.html` (map, zoom, filters, styling), which is under the MIT licence in `LICENSE`
 - Natural Earth coastline data, which is public domain
+- Statistics drawn from the National Monuments Service Prehistoric Art open data (Government of Ireland, CC BY 4.0), which remain under that dataset's own licence and attribution
 - Third-party material that the atlas links to or cites, including photographs, galleries, academic papers and UNESCO pages. These remain with their owners under their own terms.
 
 ## How to credit
