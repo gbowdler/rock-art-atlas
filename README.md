@@ -19,6 +19,7 @@ It is a single self-contained file with no build step and no external dependenci
 - Dating for rock art is often contested and revised. Ages are given as reported ranges, not settled fact, and should be checked against the primary literature before relying on them.
 - Photo links point to external galleries. Where only replica or facsimile photos exist (for example Lascaux or Altamira), the entry says so.
 - The Dowth and Kerry entries were cross-checked against the National Monuments Service Prehistoric Art open dataset (Government of Ireland, CC BY 4.0, exported 2023). Only the record counts and a regional position were used. The Kerry marker is deliberately regional because many panels are fragile and on open land.
+- The Franco-Cantabrian entries (Ekain, Santimamiñe, Cussac, Rouffignac, Trois-Frères) were chosen with help from Intxaurbe, I. (2026), *GIS dataset of Pleistocene and Early Holocene rock art, portable art and archaeological sites*, v1.2, Zenodo, [doi:10.5281/zenodo.18912270](https://doi.org/10.5281/zenodo.18912270) (CC BY 4.0). Only names and approximate positions were used. Pins are deliberately rounded because several caves are closed or fragile.
 - Coastlines come from Natural Earth (110m, public domain), so they are accurate at world-map scale but not survey-grade.
 
 ## Licence
