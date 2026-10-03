@@ -22,4 +22,9 @@ It is a single self-contained file with no build step and no external dependenci
 
 ## Licence
 
-To be decided. Until a licence is added, all rights are reserved by the author.
+This project uses two licences, one for the code and one for the content:
+
+- **Code** (the map, zoom and filter behaviour): MIT, see [LICENSE](LICENSE)
+- **Content** (site descriptions, dating summaries, notes and this README): CC BY 4.0, see [LICENSE-CONTENT.md](LICENSE-CONTENT.md). Please credit "World Rock Art Atlas by gbowdler" with a link to this repository.
+
+Third-party material is not covered by either licence. Photos, galleries and papers that the atlas links to stay with their owners, and the Natural Earth coastlines are public domain.
